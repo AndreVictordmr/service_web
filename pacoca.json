@@ -1,0 +1,16 @@
+{
+    "pacocas":{
+        "Pacoca de amendoin":{
+            "nome":"Pacoca de amendoin",
+            "Tipo":"Doce",
+            "Origem":"Brasileira",
+            "Nutrientes":"Pacocativos"
+        },
+        "Pacoca de Chocolate":{
+            "nome":"Pacoca de chocolate",
+            "Tipo":"Doce",
+            "Origem":"Brasileira",
+            "Nutrientes":"Pacocativos ABC+"
+        }
+    }
+}
